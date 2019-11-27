@@ -12,6 +12,7 @@ Some of the modules include:
 3) Weather forecast 
 4) Air Pollution Index 
 5) Latest News Headlines 
+
 All these are customised to each person that comes in front of the mirror, based on the through a facial recognition system that 
 has been implemented using openCV and Python. A PIR sensor is also included to turn the mirror off when no one is present to save
 power. The Smart Mirror is a home accessory that brings more utility to a simple everyday object. The objective of the mirror is to
